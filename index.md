@@ -1,6 +1,6 @@
 # Calendar Widget プライバシーポリシー / Privacy Policy
 
-最終更新日 / Last updated: 2026-09-16
+最終更新日 / Last updated: 2026-09-18
 
 [日本語](#ja) | [English](#en)
 
@@ -36,7 +36,7 @@ Calendar Widget(以下「本アプリ」)は、端末のホーム画面ウィジ
 
 本ポリシーに関するご質問は、以下の連絡先までお願いします。
 
-support_to_earn-calendarwidgetandroid@yahoo.co.jp
+value.quest.labs.and.products@gmail.com
 
 ### 変更について
 
@@ -74,7 +74,7 @@ No account registration is required to use the App.
 
 If you have questions about this policy, please contact us at:
 
-support_to_earn-calendarwidgetandroid@yahoo.co.jp
+value.quest.labs.and.products@gmail.com
 
 ### Changes to This Policy
 
