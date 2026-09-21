@@ -1,6 +1,6 @@
-# Calendar Widget プライバシーポリシー / Privacy Policy
+# Scroll Calendar Widget プライバシーポリシー / Privacy Policy
 
-最終更新日 / Last updated: 2026-09-18
+最終更新日 / Last updated: 2026-09-19
 
 [日本語](#ja) | [English](#en)
 
@@ -9,7 +9,7 @@
 <a name="ja"></a>
 ## 日本語
 
-Calendar Widget(以下「本アプリ」)は、端末のホーム画面ウィジェットでカレンダーの予定を表示するアプリです。本アプリの個人情報の取り扱いについて、以下のとおり説明します。
+Scroll Calendar Widget(以下「本アプリ」)は、端末のホーム画面ウィジェットでカレンダーの予定を表示するアプリです。本アプリの個人情報の取り扱いについて、以下のとおり説明します。
 
 ### 収集する情報
 
@@ -47,7 +47,7 @@ value.quest.labs.and.products@gmail.com
 <a name="en"></a>
 ## English
 
-Calendar Widget (the "App") displays your calendar events in a home-screen widget. This section explains how the App handles personal information.
+Scroll Calendar Widget (the "App") displays your calendar events in a home-screen widget. This section explains how the App handles personal information.
 
 ### Information We Collect
 
